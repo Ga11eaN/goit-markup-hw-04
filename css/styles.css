@@ -303,6 +303,10 @@ header {
 
 /* clients */
 
+.section-clients {
+  padding-top: 101px;
+}
+
 .list-clients a {
   padding: 0;
   margin: 0;
